@@ -12,9 +12,9 @@
         <ImageView
             android:id="@+id/iv_cafe"
             android:layout_width="match_parent"
-            android:layout_height="130dp"
-            android:src="@drawable/cafe"
-            android:scaleType="fitXY"/>
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/cafe" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -35,18 +35,19 @@
         <ImageView
             android:id="@+id/iv_hospital"
             android:layout_width="match_parent"
-            android:layout_height="130dp"
+            android:layout_height="110dp"
             android:scaleType="fitXY"
             android:src="@drawable/hospital" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="병원/약국 "
-            android:textSize="40dp"
-            android:textColor="@color/white"
-            android:layout_marginTop="20dp"
             android:layout_marginLeft="8dp"
-            android:textStyle="italic"/>
+            android:layout_marginTop="20dp"
+            android:text="병원/약국 "
+            android:textColor="@color/white"
+            android:textSize="40dp"
+            android:textStyle="italic" />
 
 
     </RelativeLayout>
@@ -58,9 +59,9 @@
         <ImageView
             android:id="@+id/iv_park"
             android:layout_width="match_parent"
-            android:layout_height="130dp"
-            android:src="@drawable/park"
-            android:scaleType="fitXY"/>
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/park" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -81,7 +82,7 @@
         <ImageView
             android:id="@+id/iv_travel"
             android:layout_width="match_parent"
-            android:layout_height="130dp"
+            android:layout_height="110dp"
             android:scaleType="fitXY"
             android:src="@drawable/travel" />
         <TextView

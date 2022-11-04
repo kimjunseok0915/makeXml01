@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/drawable/bg_iv_black.xml" value="0.2765" />
+        <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/drawable/bg_tv_blue.xml" value="0.2765" />
         <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/layout/fragment_community.xml" value="0.2759493670886076" />
         <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/layout/fragment_facilities.xml" value="0.33" />
+        <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/layout/fragment_missing.xml" value="0.36614583333333334" />
         <entry key="..\:/Android/Projects/makeXml01/app/src/main/res/layout/timerecyclerview_item.xml" value="0.5" />
       </map>
     </option>
